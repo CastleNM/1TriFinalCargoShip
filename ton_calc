@@ -1,1 +1,9 @@
-
+Mass = float(input(" Enter boat Mass: "))
+weight = boatmass * 200.000
+Print
+if weight > 200,000 tons:
+ print ( " The boat's weight"= str( Ship weight ) + " too heavy" )
+elif weight < 50,000 tons:
+ print ( " The boat's weight"= str( Ship weight ) + " too Light" )
+else:
+print( " The boat's weight"= str( Ship weight ) + " weight is equal" + \ "even")
